@@ -5,3 +5,9 @@
 💡 A slack clone web application can be built using various technologies, such as React, Firebase, Stream etc.
 
 💻 A slack clone web application can be a useful and fun project for learning web development and creating a team messenger site. 
+
+# Implementation
+![header image](Snapshot_01.jpg)
+![header image](Snapshot_02.jpg)
+![header image](Snapshot_03.jpg)
+![header image](Snapshot_04.jpg)
