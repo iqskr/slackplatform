@@ -8,6 +8,7 @@
 
 # Technologies
 </>**Frontend**: HTML, CSS & JS.
+
 </>**Backend**: Node.js, Mongodb, Firebase Javascript SDK, Socketio.
 
 # Design
