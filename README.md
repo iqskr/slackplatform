@@ -6,6 +6,14 @@
 
 💻 A slack clone web application can be a useful and fun project for learning web development and creating a team messenger site. 
 
+# Technologies
+**Frontend**: HTML, CSS & JS
+**Backend**: Node.js, Mongodb, Firebase Javascript SDK, Socketio
+
+# Design
+
+![header image](Snapshot_05.jpg)
+
 # Implementation
 
 **Login**
