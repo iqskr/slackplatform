@@ -7,7 +7,15 @@
 💻 A slack clone web application can be a useful and fun project for learning web development and creating a team messenger site. 
 
 # Implementation
+
+**Login**
 ![header image](Snapshot_01.jpg)
+
+**Signup**
 ![header image](Snapshot_02.jpg)
+
+**Dashboard**
 ![header image](Snapshot_03.jpg)
+
+**Chat-Rooms**
 ![header image](Snapshot_04.jpg)
